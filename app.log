@@ -1,0 +1,86 @@
+2026-06-03 18:50:17,576 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-06-03 18:50:17,578 - INFO - [33mPress CTRL+C to quit[0m
+2026-06-03 18:50:17,578 - INFO -  * Restarting with stat
+2026-06-03 18:50:18,531 - WARNING -  * Debugger is active!
+2026-06-03 18:50:18,551 - INFO -  * Debugger PIN: 130-126-703
+2026-06-03 18:53:03,362 - INFO - 127.0.0.1 - - [03/Jun/2026 18:53:03] "[31m[1mGET /process HTTP/1.1[0m" 405 -
+2026-06-03 18:53:03,421 - INFO - 127.0.0.1 - - [03/Jun/2026 18:53:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-06-04 13:31:29,292 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-06-04 13:31:29,299 - INFO - [33mPress CTRL+C to quit[0m
+2026-06-04 13:31:29,303 - INFO -  * Restarting with stat
+2026-06-04 13:31:30,797 - WARNING -  * Debugger is active!
+2026-06-04 13:31:30,848 - INFO -  * Debugger PIN: 130-126-703
+2026-06-04 13:32:27,421 - INFO - 127.0.0.1 - - [04/Jun/2026 13:32:27] "[31m[1mGET /process HTTP/1.1[0m" 405 -
+2026-06-04 13:32:27,464 - INFO - 127.0.0.1 - - [04/Jun/2026 13:32:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-06-04 13:32:34,888 - ERROR - AI Service failed. Using fallback.
+2026-06-04 13:32:34,888 - INFO - 127.0.0.1 - - [04/Jun/2026 13:32:34] "POST /process HTTP/1.1" 200 -
+2026-06-04 13:48:09,975 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-06-04 13:48:09,975 - INFO - [33mPress CTRL+C to quit[0m
+2026-06-04 13:48:09,975 - INFO -  * Restarting with stat
+2026-06-04 13:48:10,308 - WARNING -  * Debugger is active!
+2026-06-04 13:48:10,315 - INFO -  * Debugger PIN: 130-126-703
+2026-06-04 13:50:06,805 - INFO -  * Detected change in 'D:\\internship\\AI_sfh\\services\\ai_service.py', reloading
+2026-06-04 13:50:06,872 - INFO -  * Restarting with stat
+2026-06-04 13:50:07,256 - WARNING -  * Debugger is active!
+2026-06-04 13:50:07,262 - INFO -  * Debugger PIN: 130-126-703
+2026-06-04 13:50:13,348 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-06-04 13:50:13,363 - INFO - [33mPress CTRL+C to quit[0m
+2026-06-04 13:50:13,364 - INFO -  * Restarting with stat
+2026-06-04 13:50:13,717 - WARNING -  * Debugger is active!
+2026-06-04 13:50:13,717 - INFO -  * Debugger PIN: 130-126-703
+2026-06-04 13:50:23,996 - INFO - 127.0.0.1 - - [04/Jun/2026 13:50:23] "[31m[1mGET /process HTTP/1.1[0m" 405 -
+2026-06-04 13:50:25,091 - INFO - 127.0.0.1 - - [04/Jun/2026 13:50:25] "[31m[1mGET /process HTTP/1.1[0m" 405 -
+2026-06-04 13:50:57,924 - ERROR - AI Service failed. Using fallback.
+2026-06-04 13:50:57,924 - INFO - 127.0.0.1 - - [04/Jun/2026 13:50:57] "POST /process HTTP/1.1" 200 -
+2026-06-04 13:53:09,151 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-06-04 13:53:09,151 - INFO - [33mPress CTRL+C to quit[0m
+2026-06-04 13:53:09,166 - INFO -  * Restarting with stat
+2026-06-04 13:53:09,485 - WARNING -  * Debugger is active!
+2026-06-04 13:53:09,485 - INFO -  * Debugger PIN: 130-126-703
+2026-06-04 13:53:26,611 - INFO - 127.0.0.1 - - [04/Jun/2026 13:53:26] "[33mGET / HTTP/1.1[0m" 404 -
+2026-06-04 13:53:26,941 - INFO - 127.0.0.1 - - [04/Jun/2026 13:53:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-06-04 13:54:14,348 - ERROR - AI Service failed. Using fallback.
+2026-06-04 13:54:14,349 - INFO - 127.0.0.1 - - [04/Jun/2026 13:54:14] "POST /process HTTP/1.1" 200 -
+2026-06-04 13:56:24,152 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-06-04 13:56:24,152 - INFO - [33mPress CTRL+C to quit[0m
+2026-06-04 13:56:24,152 - INFO -  * Restarting with stat
+2026-06-04 13:56:24,486 - WARNING -  * Debugger is active!
+2026-06-04 13:56:24,492 - INFO -  * Debugger PIN: 130-126-703
+2026-06-04 13:56:37,557 - INFO - 127.0.0.1 - - [04/Jun/2026 13:56:37] "[33mGET / HTTP/1.1[0m" 404 -
+2026-06-04 13:57:01,724 - ERROR - AI Service failed. Using fallback.
+2026-06-04 13:57:01,728 - INFO - 127.0.0.1 - - [04/Jun/2026 13:57:01] "POST /process HTTP/1.1" 200 -
+2026-06-04 13:57:19,919 - INFO - 127.0.0.1 - - [04/Jun/2026 13:57:19] "[33mGET / HTTP/1.1[0m" 404 -
+2026-06-04 14:01:29,084 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-06-04 14:01:29,084 - INFO - [33mPress CTRL+C to quit[0m
+2026-06-04 14:01:29,084 - INFO -  * Restarting with stat
+2026-06-04 14:01:29,491 - WARNING -  * Debugger is active!
+2026-06-04 14:01:29,497 - INFO -  * Debugger PIN: 130-126-703
+2026-06-04 14:01:37,410 - INFO - 127.0.0.1 - - [04/Jun/2026 14:01:37] "[33mGET / HTTP/1.1[0m" 404 -
+2026-06-04 14:01:42,051 - INFO - 127.0.0.1 - - [04/Jun/2026 14:01:42] "POST /process HTTP/1.1" 200 -
+2026-06-04 14:02:12,001 - INFO -  * Detected change in 'D:\\internship\\AI_sfh\\services\\ai_service.py', reloading
+2026-06-04 14:02:12,057 - INFO -  * Restarting with stat
+2026-06-04 14:02:12,426 - WARNING -  * Debugger is active!
+2026-06-04 14:02:12,429 - INFO -  * Debugger PIN: 130-126-703
+2026-06-04 14:02:37,716 - INFO -  * Detected change in 'D:\\internship\\AI_sfh\\services\\ai_service.py', reloading
+2026-06-04 14:02:37,781 - INFO -  * Restarting with stat
+2026-06-04 14:02:38,142 - WARNING -  * Debugger is active!
+2026-06-04 14:02:38,147 - INFO -  * Debugger PIN: 130-126-703
+2026-06-04 14:02:43,224 - INFO -  * Detected change in 'D:\\internship\\AI_sfh\\services\\ai_service.py', reloading
+2026-06-04 14:02:43,262 - INFO -  * Restarting with stat
+2026-06-04 14:02:43,667 - WARNING -  * Debugger is active!
+2026-06-04 14:02:43,667 - INFO -  * Debugger PIN: 130-126-703
+2026-06-04 14:02:45,713 - INFO -  * Detected change in 'D:\\internship\\AI_sfh\\services\\ai_service.py', reloading
+2026-06-04 14:02:45,757 - INFO -  * Restarting with stat
+2026-06-04 14:02:46,115 - WARNING -  * Debugger is active!
+2026-06-04 14:02:46,121 - INFO -  * Debugger PIN: 130-126-703
+2026-06-04 14:02:47,138 - INFO -  * Detected change in 'D:\\internship\\AI_sfh\\services\\ai_service.py', reloading
+2026-06-04 14:02:47,182 - INFO -  * Restarting with stat
+2026-06-04 14:02:47,544 - WARNING -  * Debugger is active!
+2026-06-04 14:02:47,549 - INFO -  * Debugger PIN: 130-126-703
